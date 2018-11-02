@@ -1,0 +1,25 @@
+body {
+      font-family:Segoe UI;  
+      box-sizing: content-box !important;
+     }
+.col-form-label {
+		            box-sizing: content-box;
+		            padding-left: 20px;
+		            font-weight: 500;
+		            text-align: left;
+                flex: 0 0 100%;
+                max-width: 100%;
+		            }
+.fullwidth + label {
+            width: 165%
+            }
+.offset-md-4 {
+			        margin-left:0
+			       }
+
+.datext-right {
+                text-align: left !important;
+              }  
+.form-control {
+              width: 165%
+              }
